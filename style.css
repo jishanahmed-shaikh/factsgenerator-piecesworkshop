@@ -24,7 +24,7 @@ header {
 
 h1 {
     margin: 0;
-    font-size: 48px; /* Increase font size for larger text */
+    font-size: 32px; /* Increase font size for larger text */
 }
 
 .toggle-container {
