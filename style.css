@@ -65,8 +65,8 @@ h1 {
 .slider:before {
     position: absolute;
     content: "";
-    height: 30px; /* Increase size for larger toggle button */
-    width: 30px; /* Increase size for larger toggle button */
+    height: 20px; /* Increase size for larger toggle button */
+    width: 20px; /* Increase size for larger toggle button */
     left: 5px;
     bottom: 5px;
     background-color: white;
