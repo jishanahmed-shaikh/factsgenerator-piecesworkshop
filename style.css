@@ -68,7 +68,7 @@ h1 {
     height: 30px; /* Increase size for larger toggle button */
     width: 30px; /* Increase size for larger toggle button */
     left: 5px;
-    bottom: 5px;
+    bottom: 6px;
     background-color: white;
     transition: .4s;
     border-radius: 50%;
