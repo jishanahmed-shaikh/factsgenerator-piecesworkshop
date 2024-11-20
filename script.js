@@ -10,3 +10,7 @@ document.getElementById('generateFact').addEventListener('click', function() {
     const randomIndex = Math.floor(Math.random() * facts.length);
     document.getElementById('factDisplay').textContent = facts[randomIndex];
 });
+
+document.getElementById('modeToggle').addEventListener('change', function() {
+    document.body.classList.toggle('dark-mode');
+});
