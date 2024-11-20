@@ -38,8 +38,8 @@ h1 {
 .switch {
     position: relative;
     display: inline-block;
-    width: 70px; /* Increase width for larger toggle */
-    height: 40px; /* Increase height for larger toggle */
+    width: 50px; /* Increase width for larger toggle */
+    height: 20px; /* Increase height for larger toggle */
     margin-right: 10px;
 }
 
