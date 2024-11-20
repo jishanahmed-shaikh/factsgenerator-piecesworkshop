@@ -17,7 +17,7 @@ header {
     justify-content: center;
     align-items: center;
     position: relative;
-    padding: 30px; /* Increase padding for larger top bar */
+    padding: 20px; /* Increase padding for larger top bar */
     background-color: #134be6;
     color: #fff;
 }
