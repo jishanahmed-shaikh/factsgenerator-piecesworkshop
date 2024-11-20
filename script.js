@@ -14,3 +14,12 @@ document.getElementById('generateFact').addEventListener('click', function() {
 document.getElementById('modeToggle').addEventListener('change', function() {
     document.body.classList.toggle('dark-mode');
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    document.body.classList.add('dark-mode');
+    document.getElementById('modeToggle').checked = true;
+});
+
+document.getElementById('clearFact').addEventListener('click', function() {
+    document.getElementById('factDisplay').textContent = ''; // Clear the displayed fact
+});
