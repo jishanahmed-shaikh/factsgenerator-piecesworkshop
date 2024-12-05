@@ -16,7 +16,7 @@ This app was designed as a capstone project for the GenAI 101 workshop, allowing
 - **Easy Hosting on GitHub Pages**: With no additional setup, users can deploy their app online to share with others.
 
 ## Live Demo
-You can view a sample app hosted on GitHub Pages here: [https://ialimustufa.github.io/genai101-project/](https://ialimustufa.github.io/genai101-project/)  
+You can view a sample app hosted on GitHub Pages here: [https://github.com/jishanahmed-shaikh/factsgenerator-piecesworkshop](https://github.com/jishanahmed-shaikh/factsgenerator-piecesworkshop)  
 
 ## Step-by-Step Project Guide
 This project is designed to be completed in 15 minutes. Each step incorporates key concepts from GenAI 101.
