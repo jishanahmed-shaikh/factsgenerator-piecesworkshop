@@ -57,7 +57,7 @@ const facts = [
 ### Step 5: Host on GitHub Pages and Share
 1. Go to your GitHub repository and navigate to **Settings > Pages**.
 2. Under **Source**, select the main branch and set the folder to `/root`.
-3. Click **Save**. Your app will be live at a link like `https://yourusername.github.io/genai101/`.
+3. Click **Save**. Your app will be live at a link like `https://yourusername.github.io/repo-name/`.
 4. Share the link to let others explore and enjoy your fun facts generator app.
 
    - **GenAI Concept**: Share a practical AI-powered creation, reinforcing the importance of presentation and sharing.
